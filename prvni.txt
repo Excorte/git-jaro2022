@@ -3,3 +3,5 @@ ano
 ted jsem to podelal...
 jojo
 for (int a>1; a>10;a++)
+zde je dtuha fnkce {{{
+}}}|
