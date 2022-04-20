@@ -6,3 +6,5 @@ for (int a>1; a>10;a++)
 zde je dtuha fnkce {{{
 }}}|
 sprava chyby
+tady je zmena
+apksdoasmd
